@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "elytratilt",
+  "version": "${version}",
+  "name": "Elytratilt",
+  "description": "A mod that makes camera tilt with the player",
+  "authors": [
+    "Anonymous1212144"
+  ],
+  "contact": {
+    "issues": "https://github.com/Anonymous1212144/elytratilt/issues",
+    "homepage": "https://www.youtube.com/channel/UCStYbXooQ0OjbKz9d3hWKFA/"
+  },
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "environment": "client",
+  "mixins": [
+    "elytratilt.mixins.json"
+  ]
+}
